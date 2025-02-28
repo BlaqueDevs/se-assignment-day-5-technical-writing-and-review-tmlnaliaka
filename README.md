@@ -64,5 +64,3 @@ Headings and subheadings create a clear structure, making it easier for readers 
 - **Highlight key features in bullet points** for easy scanning.  
 - **Avoid unnecessary details**—stick to what users need to know first.  
 - **Provide a call-to-action** (e.g., “Get started in just three steps!”).  
-
-Would you like examples tailored to a specific product or audience?
